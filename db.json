@@ -1,0 +1,44 @@
+{
+"superheroes": [
+        {
+            "id": 1,
+            "name": "Aqualad"
+        },
+        {
+            "id": 2,
+            "name": "Blue Beetle"
+        },
+        {
+            "id": 3,
+            "name": "Batman"
+        }
+    ],
+"villains": [
+        {
+            "id": 1,
+            "name": "Manta"
+        },
+        {
+            "id": 2,
+            "name": "Black Beetle"
+        },
+        {
+            "id": 3,
+            "name": "Darkseid"
+        }
+    ],
+"side-kicks" : [
+        {
+            "id": 1,
+            "name": "Thirteen"
+        },
+        {
+            "id": 2,
+            "name": "Beast Boy"
+        },
+        {
+            "id": 3,
+            "name": "Robin"
+        }
+    ]
+}
